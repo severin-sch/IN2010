@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 .idea/
+/src/Oblig1/
+/src/Oblig1/kitten.py
+
+/src/Ukesoppgaver/
 
 # C extensions
 *.so
